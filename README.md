@@ -11,10 +11,10 @@ Currently working on a Purple Team PFE combining FastAPI, AI, cybersecurity, and
 
 Fun Facts:
 
-ISTQB Foundation certified
-Fluent in French and Arabic
-Built a YouTube Shorts auto-clipper using Whisper + Gemini
-Hobbies: CTFs, offensive security, building random tools
+  ISTQB Foundation certified
+  Fluent in French and Arabic
+  Built a YouTube Shorts auto-clipper using Whisper + Gemini
+  Hobbies: CTFs, offensive security, building random tools
 <!--
 **mrkhlifi/mrkhlifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
