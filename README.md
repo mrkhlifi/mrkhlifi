@@ -2,7 +2,7 @@
 
 # Mohamed Amine Khlifi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Building+security+%2B+AI+tools;Breaking+things+to+learn+how+they+work" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Building+security+%2B+AI+tools;Breaking+things+to+learn+how+they+work;I'm+BatMan" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/khlifi-mohamed-amine-090588383)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:mohamed.amine.khlifi.dev@gmail.com)
