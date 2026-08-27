@@ -54,10 +54,9 @@ CompTIA Security+ | into CTFs, ML, and shipping small useful tools
 | Project | Description |
 |---|---|
 | 🗂️ **[CSV Redactor](https://secure-dev-tools.github.io/csv-redactor/)** | In-browser CSV/Excel/JSON editor & anonymizer — zero server, zero data leaves the device |
-| 🎧 **SONAR** | 3D spatial audio spatializer, one self-contained HTML file, Web Audio API |
 | 🔁 **Format Foundry** | Browser-based file converter |
 | 🎬 **YT_to_Shorts** | AI video clipper (Whisper + Gemini), with Arabic caption support |
-| 🛡️ **PFE — Purple Team App** | FastAPI + AI + Flutter, cybersecurity-focused final-year project — in progress 🚧 |
+| 🛡️ **PFE — Purple Team App** | FastAPI + AI + Flutter, cybersecurity-focused final-year project — in progress 🔜 |
 
 <br>
 
